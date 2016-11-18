@@ -1,3 +1,6 @@
-function type (add, 1, 2){
-  console.log (type[2] )
+var justKidding ;
+
+function rawrxd (D, E, S){
+  if (D =)
+  console.log ()
 }
